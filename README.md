@@ -1,4 +1,4 @@
-# INRI — Navigation Risk Classification
+# INRI : Navigation Risk Classification
 
 A machine learning and rule-based framework for identifying and assessing navigation failures across India.
 
