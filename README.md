@@ -15,7 +15,7 @@ A machine learning and rule-based framework for identifying and assessing naviga
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-527A5D?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6B8F71?style=for-the-badge&logo=python&logoColor=white)
 
-📊 Results : 
+📊 Results : <br>
 **Best Model:** KNN  
 **Accuracy:** 81.8%  
 **F1 Score:** 78.8%  
