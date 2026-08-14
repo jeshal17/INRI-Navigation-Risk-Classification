@@ -9,14 +9,14 @@ A machine learning and rule-based framework for identifying and assessing naviga
 - Applies domain-based safety rules
 - Generates RED, AMBER and GREEN risk alerts
 
-**Built With**<br>
+**Built With :**<br>
 
 ![Python](https://img.shields.io/badge/Python-31543F?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-3F6B50?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-527A5D?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6B8F71?style=for-the-badge&logo=python&logoColor=white)
 
-**Results**<br>
+**Results :**<br>
 
 **Best Model:** KNN  
 **Accuracy:** 81.8%  
