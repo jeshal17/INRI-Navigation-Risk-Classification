@@ -46,10 +46,6 @@ A machine learning and rule-based framework for identifying and assessing naviga
 
 <img src="https://raw.githubusercontent.com/jeshal17/INRI-Navigation-Risk-Classification/assets/fig5_signal_time.png" width="90%">
 
-## 📓 Notebook
-
-[View the complete analysis](./INRI-Navigation-Risk-Classification[1].ipynb)
-
 <div align="center">
 
 Built with Python · ML · Data Analysis
