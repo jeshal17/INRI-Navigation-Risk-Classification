@@ -48,7 +48,7 @@ A machine learning and rule-based framework for identifying and assessing naviga
 
 ## 📓 Notebook
 
-[View the complete analysis](./INRI-Navigation-Risk-Classification.ipynb)
+[View the complete analysis](./INRI-Navigation-Risk-Classification[1].ipynb)
 
 <div align="center">
 
