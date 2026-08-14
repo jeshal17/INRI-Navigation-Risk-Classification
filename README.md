@@ -1,9 +1,7 @@
-# INRI — Navigation Risk Classification
-
+# INRI : Navigation Risk Classification
 A machine learning and rule-based framework for identifying and assessing navigation failures across India.
 
 ## What it does
-
 - Classifies navigation failures into 5 categories
 - Compares multiple machine learning models
 - Calculates an INRI risk score
